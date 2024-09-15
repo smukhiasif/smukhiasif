@@ -19,10 +19,10 @@ I'm a passionate web developer with over several years of experience in building
 ## 🛠️ Technical Skills
 
 **Languages:** JavaScript, Dart, Python, PHP  
-**Frontend:** React, Angular, Vue.js, HTML, CSS  
-**Backend:** Node.js, Express, Django, Laravel  
+**Frontend:** React, Vue.js, HTML, CSS  
+**Backend:** Node.js, Express, Laravel  
 **Databases:** MySQL, PostgreSQL, MongoDB  
-**DevOps:** Docker, Kubernetes, Jenkins, AWS, Azure  
+**DevOps:** Docker, Kubernetes, Jenkins, AWS, GCP  
 **Other:** RESTful APIs, GraphQL, CI/CD, Microservices Architecture  
 
 ## 💼 Projects
@@ -39,7 +39,7 @@ An open-source package that provides [specific functionality], used by X project
 ## 🏆 Achievements & Certifications
 
 - **AWS Certified Cloud Practitioner**
-- **Certified Configuration Managemer and the Cloud practitioner offered by google in Coursera**
+- **Certified Configuration Management and the Cloud practitioner offered by google in Coursera**
 
 
 ## 📫 How to Reach Me
